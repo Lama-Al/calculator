@@ -1,0 +1,51 @@
+*{
+	font-family: tahoma;
+
+}
+
+#b{ background-color:#b0d6dd }
+#box {
+	width: 25%;
+  /* height: 100%;*/
+   border: solid 10px #008080;
+   margin: 40px;
+   margin-left: 250px;
+ 
+    padding: 25px;
+	font-family: tahoma;
+	font-style: italic;
+    background-color:#008080;
+}
+#result{
+	height: 30%
+}
+.R{
+ background-color:#DFDFDF;	
+}
+#history{
+	text-align: right;
+	height:20px;
+    margin:0 20px;
+    padding-top: 20px;
+    font-size: 15px;  
+	color:#919191;  
+}
+#output{
+	text-align: right;
+	height:60px;
+	font-size: 30px;
+	margin: 10px 20px;  
+}
+#Key{
+	height:400px;
+}
+
+.op , .num , .em{
+width: 50px;
+height: 50px;
+margin: 15px;
+float: left;
+border-radius: 30%; 
+border-width: 0;
+font-size: 15px;
+}
