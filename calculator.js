@@ -27,7 +27,7 @@ function format(num) {
 function reversNumberFormat(num) {
 	return Number(num.replace(/,/g,''));
 }
-//var Op = op; 
+
 for (var i = 0; i < op.length; i++) {
 	op[i].addEventListener('click',function(){
 		if(this.id=="clear"){
